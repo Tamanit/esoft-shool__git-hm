@@ -1,0 +1,24 @@
+39ba57e HEAD@{0}: cherry-pick: funny-gif
+58c9d54 HEAD@{1}: reset: moving to 58c9d545f9b64110c8dbfa1036ab5081b3069d2f
+58c9d54 HEAD@{2}: commit: pick funnines meme
+a04ccc8 HEAD@{3}: reset: moving to HEAD~1
+a8e233f HEAD@{4}: cherry-pick: meme about db
+a04ccc8 HEAD@{5}: checkout: moving from feature/rebased to feature/cherry
+8a9beab HEAD@{6}: commit: meme about db
+e3f7d78 HEAD@{7}: commit: funny-gif
+b8df211 HEAD@{8}: checkout: moving from feature/cherry to feature/rebased
+a04ccc8 HEAD@{9}: checkout: moving from main to feature/cherry
+a04ccc8 HEAD@{10}: commit (merge): Resolve merge conflict
+187c935 HEAD@{11}: checkout: moving from feature/rebased to main
+b8df211 HEAD@{12}: commit: Change login in rebased
+573a4c5 HEAD@{13}: checkout: moving from main to feature/rebased
+187c935 HEAD@{14}: commit: Change login in main
+b7f3e4e HEAD@{15}: checkout: moving from feature/rebased to main
+573a4c5 HEAD@{16}: commit: Update login page
+b7f3e4e HEAD@{17}: checkout: moving from main to feature/rebased
+b7f3e4e HEAD@{18}: merge feature/add-login: Fast-forward
+c37b228 HEAD@{19}: checkout: moving from feature/add-login to main
+b7f3e4e HEAD@{20}: commit: Add login validation script
+26d71ff HEAD@{21}: commit: Add login page
+c37b228 HEAD@{22}: checkout: moving from main to feature/add-login
+c37b228 HEAD@{23}: commit (initial): init commit
